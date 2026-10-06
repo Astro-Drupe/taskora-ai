@@ -4,14 +4,14 @@ Site vitrine statique en français pour l’assistant de réponse aux avis Googl
 
 ## Avant publication
 
-Les boutons de démonstration pointent actuellement vers le formulaire Wix existant : `https://antoinecadetpro.wixsite.com/taskora-ai/contact`. Tu pourras remplacer ce lien quand un formulaire ou une adresse de contact sera prêt sur le nouveau site.
+Le bouton de démonstration mène à la section contact de cette page. Le formulaire prépare un e-mail adressé à `antoine.cadet.pro@gmail.com` avec les champs nom, e-mail professionnel, entreprise et message. Le visiteur doit ensuite envoyer le message depuis son application e-mail. Cela dépend de la présence d’une application ou d’un service e-mail configuré sur son appareil.
 
 Relis les descriptions pour qu’elles correspondent exactement aux fonctionnalités réellement proposées par Taskora AI.
 
 ## Publier avec GitHub Pages
 
 1. Connecte-toi à GitHub et crée un dépôt public nommé `taskora-ai`.
-2. Ajoute les fichiers `index.html`, `style.css`, `favicon.svg` et `README.md` à la racine du dépôt (pas dans un sous-dossier).
+2. Ajoute les fichiers `index.html`, `style.css`, `script.js`, `favicon.svg` et `README.md` à la racine du dépôt (pas dans un sous-dossier).
 3. Dans le dépôt, ouvre **Settings → Pages**.
 4. Sous **Build and deployment**, choisis **Deploy from a branch**, puis `main` et `/ (root)`, et enregistre.
 5. Attends la fin du déploiement. GitHub indiquera l’adresse temporaire du site dans cette page.
